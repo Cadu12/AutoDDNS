@@ -39,4 +39,5 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 ### License
 
 This package is released under [LGPLv3](https://opensource.org/licenses/LGPL-3.0).
+
 Qt is available under multiple [licenses](https://www.qt.io/licensing).
