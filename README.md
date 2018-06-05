@@ -35,3 +35,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+### License
+
+This package is released under [LGPLv3](https://opensource.org/licenses/LGPL-3.0).
+Qt is available under multiple [licenses](https://www.qt.io/licensing).
